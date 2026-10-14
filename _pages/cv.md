@@ -23,7 +23,7 @@ redirect_from:
   * Supervisor: Jiankai Xu(许建开)
 
 ## Academic Activities
-For a full list of my talks, conferences, and summer schools, please visit my [Academic Activities](/activities/) page.
+* **See [Academic Activities](/activities/)**
   
 ## Skills & Interests
 * **Computer Skills:** Matlab, Latex, C++
