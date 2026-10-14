@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **PhD in Mathematics**, University of Jyväskylä & University of Padua <span style="float: right;">Sep. 2025 - Present</span>
+* **PhD in Mathematics**, University of Jyväskylä & University of Padua([2025/2026 (XLI ciclo)](https://dottorato.math.unipd.it/people/phd_students)) <span style="float: right;">Sep. 2025 - Present</span>
   * Double degree based on a "Cotutelle" agreement
   * Research Topic: Surfaces and Slices in Heisenberg Groups
   * Supervisors: [Katrin Fässler](https://kfaessler.wixsite.com/math) & [Roberto Monti](https://www.math.unipd.it/~monti/)
