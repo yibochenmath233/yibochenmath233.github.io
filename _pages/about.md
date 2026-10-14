@@ -13,7 +13,7 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD student in Mathematics at the University of Jyväskylä and the University of Padua (Cotutelle). 
+I am a PhD student in Mathematics at the [University of Jyväskylä](https://www.jyu.fi/en) and the [University of Padua](https://www.unipd.it/en) ([Cotutelle](https://www.unipd.it/en/dottorato/cotutela)). 
 
 I am working in the [Geometric measure theory and harmonic analysis](https://www.jyu.fi/en/research-groups/geometric-measure-theory-and-harmonic-analysis) research group.
 
@@ -25,4 +25,3 @@ You can find my email on my JYU's official website: [https://www.jyu.fi/en/peopl
 I am interested in **Geometric Analysis**, including:
 * Uniform/Quantitative rectifiability in Heisenberg groups.
 * Minimal surfaces/Plateau problems in Heisenberg groups.
-* Currents in Heisenberg groups.
