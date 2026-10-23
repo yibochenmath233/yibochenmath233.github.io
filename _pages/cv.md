@@ -12,8 +12,7 @@ redirect_from:
 ## Education
 
 - **[University of Jyväskylä](https://www.jyu.fi/en) & [University of Padua](https://www.unipd.it/en)** <small>([2025/2026 (XLI ciclo)](https://dottorato.math.unipd.it/people/phd_students))</small> <span style="float: right;">Sep. 2025 - Present</span><br>
-  **PhD in Mathematics**
-  * Double degree based on a "[Cotutelle](https://www.unipd.it/en/dottorato/cotutela)" agreement
+  **PhD in Mathematics (Double degree based on a "[Cotutelle](https://www.unipd.it/en/dottorato/cotutela)" agreement)** 
   * Research Topic: Surfaces and Slices in Heisenberg Groups
   * Supervisors:<br>
     [Katrin Fässler](https://kfaessler.wixsite.com/math) (supervisor-in-charge, [JYU](https://www.jyu.fi/en))<br>
