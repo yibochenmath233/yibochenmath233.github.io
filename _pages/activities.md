@@ -5,7 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 
-## Talks & Seminars
+## Talks & Presentation
 
 
 * **Quasiconformal mappings Course Presentation** <span style="float: right;">Jyväskylä, Finland</span><br>Presentations: *Quasisymmetries and conformal dimension* <span style="float: right;">May. 2026</span>
