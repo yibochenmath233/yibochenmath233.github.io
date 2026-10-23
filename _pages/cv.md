@@ -35,6 +35,7 @@ redirect_from:
   * GPA: 84.58/100
   * Thesis: Some Generalizations about Integrals: Riemann Integrals, Stieltjes Integrals, Lebesgue Integrals, and Calculus on Manifolds
   * Supervisor: [Jiankai Xu (许建开)](https://mathscinet.ams.org/mathscinet/MRAuthorID/870213)
+    
 ## Academic Activities
 * **See [Academic Activities](/activities/)**
   
