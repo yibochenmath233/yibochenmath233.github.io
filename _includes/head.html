@@ -32,23 +32,40 @@
     text-decoration: underline !important;
   }
 
-  /* 3. 手机端自适应修复（屏幕宽度小于 768px 时自动生效） */
+  /* 3. 黑暗模式强制改为纯黑（OLED 全黑），文字改为纯白 */
+  html[data-theme="dark"],
+  html[data-theme="dark"] body,
+  html[data-theme="dark"] .initial-content,
+  html[data-theme="dark"] .masthead,
+  html[data-theme="dark"] .greedy-nav,
+  html[data-theme="dark"] .sidebar {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+  }
+
+  /* 黑暗模式下顶部导航栏底部分割线调暗，避免突兀 */
+  html[data-theme="dark"] .masthead {
+    border-bottom: 1px solid #222222 !important;
+  }
+
+  /* 4. 手机端自适应修复（屏幕宽度小于 768px 时自动生效） */
   @media screen and (max-width: 768px) {
-    /* 取消所有 float: right，让时间和地点自动换行左对齐，不再和标题挤在一起 */
+    /* 取消右浮动，不改颜色（跟随正文的黑/白），改用斜体和小字号区分层次 */
     span[style*="float: right"],
     span[style*="float:right"] {
       float: none !important;
       display: block !important;
-      color: #777777 !important; /* 手机上变成柔和的灰色小字，区分层次 */
-      font-size: 0.88em !important;
+      color: inherit !important; /* 自动继承正文颜色，黑暗模式下是纯白，白天是深黑 */
+      font-style: italic !important; /* 用斜体替代灰色来区分层次 */
+      font-size: 0.9em !important;
       margin-top: 2px !important;
       margin-bottom: 4px !important;
     }
 
-    /* 优化手机端列表项之间的间距，防止上下条目粘连 */
+    /* 优化手机端列表项间距 */
     .page__content li,
     .archive li {
-      margin-bottom: 10px !important;
+      margin-bottom: 12px !important;
       line-height: 1.5 !important;
     }
   }
