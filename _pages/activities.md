@@ -7,7 +7,7 @@ author_profile: true
 
 ## Talks & Seminars
 
-* **Student Seminar** (Talk: Short-Time Existence and Uniqueness of the Ricci Flow) <span style="float: right;">Padua, Italy, Dec. 2024</span>  
+* **Student Seminar** <span style="float: right;">Padua, Italy</span><br>Talk: *Short-Time Existence and Uniqueness of the Ricci Flow* <span style="float: right;">Dec. 2024</span>
 
 <br>
 
