@@ -17,7 +17,7 @@ I am a PhD student in Mathematics at the [University of Jyväskylä](https://www
 
 I am working in the [Geometric measure theory and harmonic analysis](https://www.jyu.fi/en/research-groups/geometric-measure-theory-and-harmonic-analysis) research group.
 
-My supervisors are Prof. [Katrin Fässler](https://kfaessler.wixsite.com/math)(supervisor-in-charge, [JYU](https://www.jyu.fi/en)), Prof. [Roberto Monti](https://www.math.unipd.it/~monti/)(supervisor, [UniPD](https://www.unipd.it/en)) and Prof. [Tuomas Orponen](https://sites.google.com/view/tuomaths/)(co-supervisor, [JYU](https://www.jyu.fi/en)).
+My supervisors are [Katrin Fässler](https://kfaessler.wixsite.com/math)(supervisor-in-charge, [JYU](https://www.jyu.fi/en)), [Roberto Monti](https://www.math.unipd.it/~monti/)(supervisor, [UniPD](https://www.unipd.it/en)) and [Tuomas Orponen](https://sites.google.com/view/tuomaths/)(co-supervisor, [JYU](https://www.jyu.fi/en)).
 
 You can find my email on my JYU's official website: [https://www.jyu.fi/en/people/yibo-chen](https://www.jyu.fi/en/people/yibo-chen).
 
