@@ -14,9 +14,9 @@ redirect_from:
   * Double degree based on a "[Cotutelle](https://www.unipd.it/en/dottorato/cotutela)" agreement
   * Research Topic: Surfaces and Slices in Heisenberg Groups
   * Supervisors:<br>
-    [Katrin Fässler](https://kfaessler.wixsite.com/math)(supervisor-in-charge, [JYU](https://www.jyu.fi/en));<br>
-    [Roberto Monti](https://www.math.unipd.it/~monti/)(supervisor, [UniPD](https://www.unipd.it/en));<br>
-    [Tuomas Orponen](https://sites.google.com/view/tuomaths/)(co-supervisor, [JYU](https://www.jyu.fi/en)).
+    [Katrin Fässler](https://kfaessler.wixsite.com/math)(supervisor-in-charge, [JYU](https://www.jyu.fi/en))<br>
+    [Roberto Monti](https://www.math.unipd.it/~monti/)(supervisor, [UniPD](https://www.unipd.it/en))<br>
+    [Tuomas Orponen](https://sites.google.com/view/tuomaths/)(co-supervisor, [JYU](https://www.jyu.fi/en))
 * **Msc in Mathematics**, [University of Padua(Università degli Studi di Padova)](https://www.unipd.it/en) <span style="float: right;"> Oct. 2022 - Feb. 2025</span>
   * Final grade: 110/110 
   * Thesis: [Plateau's Problem for Integral Currents](https://www.math.unipd.it/~monti/tesi/yibo_chen.pdf) (Supervisor: [Roberto Monti](https://www.math.unipd.it/~monti/))
