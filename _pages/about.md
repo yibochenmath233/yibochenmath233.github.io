@@ -25,3 +25,6 @@ You can find my email on my JYU's official website: [https://www.jyu.fi/en/peopl
 I am interested in **Geometric Analysis**, including: **Geometric Measure Theory, Metric Geometry, and Calculus of Variation**. I am currently working in the following areas:
 * Uniform/Quantitative rectifiability in Heisenberg groups
 * Minimal surfaces/Plateau problems in Heisenberg groups
+<br>
+
+Outside of mathematics, I enjoy cycling and custom bike building, automotive tuning and DIY mechanics, electronics tinkering, and spending time with cats.
