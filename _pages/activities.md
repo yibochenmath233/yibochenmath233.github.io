@@ -7,7 +7,12 @@ author_profile: true
 
 ## Talks & Seminars
 
+
+* **Quasiconformal mappings Course Presentation** <span style="float: right;">Jyväskylä, Finland</span><br>Presentations: *Quasisymmetries and conformal dimension* <span style="float: right;">May. 2026</span>
+* **Fractal geometry and dynamical systems Course Presentation** <span style="float: right;">Jyväskylä, Finland</span><br>Presentations: *Dimensions of self-affine carpets* <span style="float: right;">Feb. 2026</span>
+* **Real analysis Course Presentation** <span style="float: right;">Jyväskylä, Finland</span><br>Presentations: *Tangent measures* <span style="float: right;">Nov. 2025</span>
 * **Student Seminar** <span style="float: right;">Padua, Italy</span><br>Talk: *Short-Time Existence and Uniqueness of the Ricci Flow* <span style="float: right;">Dec. 2024</span>
+
 
 <br>
 
