@@ -21,16 +21,19 @@ redirect_from:
     [Tuomas Orponen](https://sites.google.com/view/tuomaths/) (co-supervisor, [JYU](https://www.jyu.fi/en))
 
 - **[University of Padua (Università degli Studi di Padova)](https://www.unipd.it/en)** <span style="float: right;">Oct. 2022 - Feb. 2025</span><br>
-  **MSc in Mathematics**
+  **Master of Science in Mathematics**
   * Final grade: 110/110 
-  * Thesis: [Plateau's Problem for Integral Currents](https://www.math.unipd.it/~monti/tesi/yibo_chen.pdf) (Supervisor: [Roberto Monti](https://www.math.unipd.it/~monti/))
+  * Thesis: [Plateau's Problem for Integral Currents](https://www.math.unipd.it/~monti/tesi/yibo_chen.pdf)
+  * Supervisor: [Roberto Monti](https://www.math.unipd.it/~monti/)
 
 - **[University of Helsinki](https://www.helsinki.fi/en)** <span style="float: right;">Aug. 2023 - May 2024</span><br>
-  **Master's Erasmus Exchange**
+  **Master's Erasmus Exchange** (Master’s Program in Mathematics and Statistics)
   * GPA: 4.55/5
 
 - **[Hunan Agricultural University (湖南农业大学)](https://www.hunau.edu.cn/)** <span style="float: right;">Sep. 2018 - Jun. 2022</span><br>
-  **BSc in Information and Computing Science**
+  **Bachelor of Science in Information and Computing Science**
+  * GPA: 84.58/100
+  * Thesis: Some Generalizations about Integrals: Riemann Integrals, Stieltjes Integrals, Lebesgue Integrals, and Calculus on Manifolds
   * Supervisor: [Jiankai Xu (许建开)](https://mathscinet.ams.org/mathscinet/MRAuthorID/870213)
 ## Academic Activities
 * **See [Academic Activities](/activities/)**
