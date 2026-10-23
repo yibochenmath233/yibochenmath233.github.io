@@ -16,18 +16,40 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 <style>
-  /* 彻底隐藏页面底部的页脚容器和分割线 */
+  /* 1. 彻底隐藏页面底部的页脚容器和分割线 */
   .page__footer { display: none !important; }
 
-  /* 修改正文中超链接的默认颜色与下划线样式 */
-  .page__content a {
-    color: #40916c !important; /* 莫兰迪鼠尾草绿 */
-    text-decoration: none !important; /* 平时隐藏下划线，版面更干净 */
+  /* 2. 正文超链接颜色：莫兰迪鼠尾草绿 */
+  .page__content a,
+  .archive a {
+    color: #40916c !important;
+    text-decoration: none !important;
   }
 
-  /* 鼠标悬停在超链接上时的效果 */
-  .page__content a:hover {
-    color: #000000 !important; /* 悬停时加深 */
-    text-decoration: underline !important; /* 悬停时显示下划线 */
+  .page__content a:hover,
+  .archive a:hover {
+    color: #2d6a4f !important;
+    text-decoration: underline !important;
+  }
+
+  /* 3. 手机端自适应修复（屏幕宽度小于 768px 时自动生效） */
+  @media screen and (max-width: 768px) {
+    /* 取消所有 float: right，让时间和地点自动换行左对齐，不再和标题挤在一起 */
+    span[style*="float: right"],
+    span[style*="float:right"] {
+      float: none !important;
+      display: block !important;
+      color: #777777 !important; /* 手机上变成柔和的灰色小字，区分层次 */
+      font-size: 0.88em !important;
+      margin-top: 2px !important;
+      margin-bottom: 4px !important;
+    }
+
+    /* 优化手机端列表项之间的间距，防止上下条目粘连 */
+    .page__content li,
+    .archive li {
+      margin-bottom: 10px !important;
+      line-height: 1.5 !important;
+    }
   }
 </style>
