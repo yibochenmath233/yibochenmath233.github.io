@@ -22,6 +22,6 @@ My supervisors are Prof. [Katrin Fässler](https://kfaessler.wixsite.com/math)(s
 You can find my email on my JYU's official website: [https://www.jyu.fi/en/people/yibo-chen](https://www.jyu.fi/en/people/yibo-chen).
 
 ### Research Interests
-I am interested in **Geometric Analysis, Geometric Measure Theory, Metric Geometry, and Calculus of Variation**, I am currently doing research in the following areas:
+I am interested in **Geometric Analysis**, including: **Geometric Measure Theory, Metric Geometry, and Calculus of Variation**. I am currently working in the following areas:
 * Uniform/Quantitative rectifiability in Heisenberg groups
 * Minimal surfaces/Plateau problems in Heisenberg groups
