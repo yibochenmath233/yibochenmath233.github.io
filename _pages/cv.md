@@ -41,4 +41,4 @@ redirect_from:
 ## Skills & Interests
 * **Computer Skills:** Matlab, Latex, C++
 * **Languages:** Chinese (Native), English (B2)
-* **Hobbies:** Cycling
+* **Hobbies:** Cycling & custom bike building, automotive tuning & DIY mechanics, Electronics tinkering, Cats
