@@ -27,4 +27,4 @@ I am interested in **Geometric Analysis**, including: **Geometric Measure Theory
 * Minimal surfaces/Plateau problems in Heisenberg groups
 <br>
 
-Outside of mathematics, I enjoy cycling and custom bike building, automotive tuning and DIY mechanics, electronics tinkering, and spending time with cats (even though I don't have one).
+Outside of mathematics, I enjoy cycling and custom bike building, automotive tuning and DIY mechanics, electronics tinkering, and spending time with [cats](https://www.youtube.com/shorts/ybTS7c2NE9A) (even though I don't have one).
